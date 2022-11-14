@@ -7,7 +7,7 @@
 
 [link readme](./README.md)
 
-
+## lien vers instuction
 [lien instructions](https://github.com/becodeorg/CRL-Keller-5/blob/main/1.Path/1.The_Field/1.3.Markdown/1.learning.adoc)
 
 ![Quand ton code fonctionne pas](https://cache.magicmaman.com/data/photo/w1000_ci/4y/bebe-pleure-absurde.jpg)
@@ -37,7 +37,8 @@
 4. On espere que ca va fonctionner 
 
 
-[link readme](./README.md)
+### Image animée
+
 ![gif image](https://media.giphy.com/media/TTRnvIFE4wYLK/giphy.gif)
 
 ```
