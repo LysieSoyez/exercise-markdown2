@@ -1,4 +1,4 @@
-# exercise-markdown2
+ # README
 [link Markdown](./Markdown.md)
 
 ## Membres du groupe
@@ -9,5 +9,5 @@
 - Aurélien Mariaule
 
 - Jonathan Bajoux
-
+## Description
 Texte descriptif de Markdown
