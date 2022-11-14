@@ -5,6 +5,11 @@
 [link readme](./README.md)
 
 
+[lien instructions](https://github.com/becodeorg/CRL-Keller-5/blob/main/1.Path/1.The_Field/1.3.Markdown/1.learning.adoc)
+
+![Quand ton code fonctionne pas](https://cache.magicmaman.com/data/photo/w1000_ci/4y/bebe-pleure-absurde.jpg)
+
+
 ### Liste dans une liste
 
 - Première ligne
@@ -27,4 +32,5 @@
 2. Une fois qu'on a compris, ca a été très vite
 3. La dream team a encore frappé 
 4. On espere que ca va fonctionner 
+
 
